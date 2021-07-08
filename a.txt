@@ -1,3 +1,6 @@
 create a.txt 1
 
 modified by br_b 1
+modified by br_a 1
+
+merge by br_b
